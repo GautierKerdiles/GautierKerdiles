@@ -1,38 +1,36 @@
 <div align="center">
- <h1> Gautier Kerdiles </h1>
+
+<h1>Gautier Kerdiles</h1>
 
 ---
 
-## 🇫🇷 About Me
+<h2>👋 About Me</h2>
 </div>
 
-Hi! I'm **Gautier Kerdiles**, currently working in **Rates Option Trading at Barclays**. 
+Hi! I'm <b>Gautier Kerdiles</b>, currently working in <b>Rates Option Trading at Barclays</b>.  
+Before moving into finance, I completed internships in <b>theoretical physics and fluid mechanics</b> at <b>Ferrari</b> and <b>Dassault Aviation</b>, where I worked on <b>aerothermic calculations</b> and <b>hypersonic flow modeling</b> for aerospace applications.  
 
-Before moving into finance, I completed internships in **theoretical physics and fluid mechanics** at **Ferrari** and **Dassault Aviation**, where I worked on **aerothermic calculations** and **hypersonic flow modeling** for aerospace applications.  
+This engineering foundation in <b>mathematical modeling</b>, <b>heat transfer</b>, and <b>computational physics</b> naturally evolved into a deep interest in <b>quantitative finance</b>, where I now focus on <b>options</b>, <b>stochastic calculus</b>, and <b>machine learning– and data-driven trading strategies</b>.
 
-This engineering foundation in **mathematical modeling**, **heat transfer**, and **computational physics** naturally evolved into a deep interest in **quantitative finance**, where I now focus on **options**, **stochastic calculus**, and **machine learning– and data-driven trading strategies**.
-
-I studied **Fluid Mechanics and Heat Transfer (Aerodynamics)** at **Mines de Douai**, and later joined **ESCP Business School**, specializing in **Market Finance**.  
+I studied <b>Fluid Mechanics and Heat Transfer (Aerodynamics)</b> at <b>Mines de Douai</b>, and later joined <b>ESCP Business School</b>, specializing in <b>Market Finance</b>.  
 
 My goal is to bridge rigorous engineering and mathematical training with financial modeling and data-driven trading strategies.
 
 ---
 
-## 🧠 Skills
+<div align="center">
+<h2>🧠 Skills</h2>
 </div>
 
 ### 💻 Programming Languages  
-</div>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30"></a>
 
 ### 🤖 Machine Learning  
-</div>
 <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="30"></a>
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="30"></a>
 <a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-EB5E28?logo=xgboost&logoColor=white&style=for-the-badge" height="30"></a>
 
 ### 📊 Quantitative & Data Analysis  
-</div>
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30"></a>
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30"></a>
 <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" height="30"></a>
@@ -40,22 +38,29 @@ My goal is to bridge rigorous engineering and mathematical training with financi
 
 ---
 
-### 🧩 Summary
+<div align="center">
+<h2>🧩 Summary</h2>
 </div>
-Mastering these tools allows me to bridge **theory and practice**, transforming **mathematical intuition** into **data-driven, production-ready solutions** for trading, analytics, and quantitative research.
+
+Mastering these tools allows me to bridge <b>theory and practice</b>, transforming <b>mathematical intuition</b> into <b>data-driven, production-ready solutions</b> for trading, analytics, and quantitative research.
 
 ---
 
-## 🚀 Interests
+<div align="center">
+<h2>🚀 Interests</h2>
 </div>
-- **Interest Rate Derivatives & Volatility Modeling**  
-- **Quantitative Strategies & Statistical Arbitrage**  
-- **Stochastic Calculus & Mathematical Finance**  
-- **Machine Learning Applications in Trading**
+
+<ul>
+  <li><b>Interest Rate Derivatives & Volatility Modeling</b></li>
+  <li><b>Quantitative Strategies & Statistical Arbitrage</b></li>
+  <li><b>Stochastic Calculus & Mathematical Finance</b></li>
+  <li><b>Machine Learning Applications in Trading</b></li>
+</ul>
 
 ---
 
-## 📫 Contact
+<div align="center">
+<h2>📫 Contact</h2>
 </div>
 
 <a href="https://www.linkedin.com/in/gautier-kerdiles">
