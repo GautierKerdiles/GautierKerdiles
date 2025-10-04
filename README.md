@@ -4,15 +4,16 @@
 
 ---
 
-<h2>👋 About Me</h2>
+<h2>🇫🇷 About Me</h2>
 </div>
 
-Hi! I'm <b>Gautier Kerdiles</b>, currently working in <b>Rates Option Trading at Barclays</b>.  
+Hi! I'm <b>Gautier Kerdiles</b>, currently working in <b>Rates Option Trading at Barclays</b>, I store here all my projects related to market finance.
+
+I studied <b>Fluid Mechanics and Heat Transfer (Aerodynamics)</b> at <b>Mines de Douai</b>, and later joined <b>ESCP Business School</b>, specializing in <b>Market Finance</b>. 
+
 Before moving into finance, I completed internships in <b>theoretical physics and fluid mechanics</b> at <b>Ferrari</b> and <b>Dassault Aviation</b>, where I worked on <b>aerothermic calculations</b> and <b>hypersonic flow modeling</b> for aerospace applications.  
 
-This engineering foundation in <b>mathematical modeling</b>, <b>heat transfer</b>, and <b>computational physics</b> naturally evolved into a deep interest in <b>quantitative finance</b>, where I now focus on <b>options</b>, <b>stochastic calculus</b>, and <b>machine learning– and data-driven trading strategies</b>.
-
-I studied <b>Fluid Mechanics and Heat Transfer (Aerodynamics)</b> at <b>Mines de Douai</b>, and later joined <b>ESCP Business School</b>, specializing in <b>Market Finance</b>.  
+This engineering foundation in <b>mathematical modeling</b>, <b>heat transfer</b>, and <b>computational physics</b> naturally evolved into a deep interest in <b>quantitative finance</b>, where I now focus on <b>options</b>, <b>stochastic calculus</b>, and <b>machine learning and data-driven trading strategies</b>. 
 
 My goal is to bridge rigorous engineering and mathematical training with financial modeling and data-driven trading strategies.
 
@@ -35,12 +36,6 @@ My goal is to bridge rigorous engineering and mathematical training with financi
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30"></a>
 <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" height="30"></a>
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" height="30"></a>
-
----
-
-<div align="center">
-<h2>🧩 Summary</h2>
-</div>
 
 Mastering these tools allows me to bridge <b>theory and practice</b>, transforming <b>mathematical intuition</b> into <b>data-driven, production-ready solutions</b> for trading, analytics, and quantitative research.
 
