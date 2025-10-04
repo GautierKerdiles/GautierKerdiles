@@ -5,9 +5,7 @@
 Hi! I'm **Gautier Kerdiles**, currently working in **Rates Option Trading at Barclays**.  
 Before moving into finance, I completed internships in **theoretical physics and fluid mechanics** at **Ferrari** and **Dassault Aviation**, where I worked on **aerothermic calculations** and **hypersonic flow modeling** for aerospace applications.  
 
-This engineering background in **mathematical modeling**, **heat transfer**, and **computational physics** now fuels my passion for **quantitative finance** — particularly **options**, **stochastic calculus**, and **machine learning** applied to **systematic trading strategies**.
-
-I'm passionate about **quantitative finance**, **probability theory**, **mathematical modeling**, and **machine learning**, especially when they converge in **options trading** and **systematic strategies**.
+This engineering foundation in mathematical modeling, heat transfer, and computational physics naturally evolved into a deep interest in quantitative finance, where I now focus on options, stochastic calculus, and machine learning and data–driven trading strategies.
 
 I studied **Fluid Mechanics and Heat Transfer (Aerodynamics)** at **Mines de Douai**, and later joined **ESCP Business School**, specializing in **Market Finance**. 
 
