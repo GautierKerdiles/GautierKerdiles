@@ -1,10 +1,13 @@
+<div align="center">
 # < Gautier Kerdiles />
 
 ---
 
-## 👋 About Me
+## 🇫🇷 About Me
+</div>
 
-Hi! I'm **Gautier Kerdiles**, currently working in **Rates Option Trading at Barclays**.  
+Hi! I'm **Gautier Kerdiles**, currently working in **Rates Option Trading at Barclays**. 
+
 Before moving into finance, I completed internships in **theoretical physics and fluid mechanics** at **Ferrari** and **Dassault Aviation**, where I worked on **aerothermic calculations** and **hypersonic flow modeling** for aerospace applications.  
 
 This engineering foundation in **mathematical modeling**, **heat transfer**, and **computational physics** naturally evolved into a deep interest in **quantitative finance**, where I now focus on **options**, **stochastic calculus**, and **machine learning– and data-driven trading strategies**.
@@ -16,16 +19,20 @@ My goal is to bridge rigorous engineering and mathematical training with financi
 ---
 
 ## 🧠 Skills
+</div>
 
 ### 💻 Programming Languages  
+</div>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30"></a>
 
 ### 🤖 Machine Learning  
+</div>
 <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="30"></a>
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="30"></a>
 <a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/XGBoost-EB5E28?logo=xgboost&logoColor=white&style=for-the-badge" height="30"></a>
 
 ### 📊 Quantitative & Data Analysis  
+</div>
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30"></a>
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30"></a>
 <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" height="30"></a>
@@ -34,11 +41,13 @@ My goal is to bridge rigorous engineering and mathematical training with financi
 ---
 
 ### 🧩 Summary
+</div>
 Mastering these tools allows me to bridge **theory and practice**, transforming **mathematical intuition** into **data-driven, production-ready solutions** for trading, analytics, and quantitative research.
 
 ---
 
 ## 🚀 Interests
+</div>
 - **Interest Rate Derivatives & Volatility Modeling**  
 - **Quantitative Strategies & Statistical Arbitrage**  
 - **Stochastic Calculus & Mathematical Finance**  
@@ -47,6 +56,7 @@ Mastering these tools allows me to bridge **theory and practice**, transforming 
 ---
 
 ## 📫 Contact
+</div>
 
 <a href="https://www.linkedin.com/in/gautier-kerdiles">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30">
