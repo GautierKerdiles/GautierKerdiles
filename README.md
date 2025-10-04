@@ -1,6 +1,6 @@
 <div align="center">
-## < Gautier Kerdiles />
-</div>
+ <h1> Gautier Kerdiles </h1>
+
 ---
 
 ## 🇫🇷 About Me
